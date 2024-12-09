@@ -14,8 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0050-powx-n) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0001-two-sum) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
