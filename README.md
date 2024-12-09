@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2481-strictly-palindromic-number) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
