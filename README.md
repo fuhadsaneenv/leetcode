@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0217-contains-duplicate) |
 ## Recursion
 |  |
 | ------- |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
