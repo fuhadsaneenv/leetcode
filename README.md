@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2481-strictly-palindromic-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0242-valid-anagram) |
 | [3636-check-balanced-string](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/3636-check-balanced-string) |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0268-missing-number) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
