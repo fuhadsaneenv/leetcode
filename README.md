@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0268-missing-number) |
 | [1086-divisor-game](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1086-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
