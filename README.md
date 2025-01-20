@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0268-missing-number) |
 | [1086-divisor-game](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1086-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -116,5 +117,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2058-concatenation-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
