@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0326-power-of-three) |
 | [1086-divisor-game](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1086-divisor-game) |
 | [2383-add-two-integers](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
