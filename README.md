@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0242-valid-anagram) |
+| [0742-to-lower-case](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0742-to-lower-case) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2128-reverse-prefix-of-word](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [3636-check-balanced-string](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/3636-check-balanced-string) |
