@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0412-fizz-buzz) |
 | [1086-divisor-game](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1086-divisor-game) |
 | [2383-add-two-integers](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0742-to-lower-case) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2128-reverse-prefix-of-word](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2058-concatenation-of-array) |
 ## Number Theory
 |  |
