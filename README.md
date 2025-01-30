@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1086-divisor-game) |
 | [2383-add-two-integers](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2491-smallest-even-multiple](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2556-convert-the-temperature) |
 ## Hash Table
 |  |
@@ -137,4 +138,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0258-add-digits) |
+| [2491-smallest-even-multiple](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
