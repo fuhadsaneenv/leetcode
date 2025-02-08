@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0941-sort-array-by-parity) |
 | [2128-reverse-prefix-of-word](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2481-strictly-palindromic-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -108,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
