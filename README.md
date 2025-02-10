@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0953-reverse-only-letters](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0953-reverse-only-letters) |
 | [2128-reverse-prefix-of-word](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2481-strictly-palindromic-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0742-to-lower-case) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0953-reverse-only-letters](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0953-reverse-only-letters) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
