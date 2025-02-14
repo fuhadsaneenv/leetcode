@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2048-build-array-from-permutation](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0412-fizz-buzz) |
 | [1806-count-of-matches-in-tournament](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [2048-build-array-from-permutation](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2058-concatenation-of-array) |
 ## Number Theory
 |  |
