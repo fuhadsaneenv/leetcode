@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2048-build-array-from-permutation](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2058-concatenation-of-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0412-fizz-buzz) |
 | [1086-divisor-game](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1086-divisor-game) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1806-count-of-matches-in-tournament](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2383-add-two-integers](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2481-strictly-palindromic-number) |
