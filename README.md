@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0169-majority-element) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0283-move-zeroes) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
