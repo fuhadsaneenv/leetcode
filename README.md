@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2556-convert-the-temperature) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Hash Table
 |  |
 | ------- |
