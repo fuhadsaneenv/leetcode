@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2502-sort-the-people) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Binary Search
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
 |  |
 | ------- |
