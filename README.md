@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2502-sort-the-people) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2502-sort-the-people) |
 ## Recursion
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0342-power-of-four) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
 |  |
