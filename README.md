@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1524-string-matching-in-an-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0742-to-lower-case) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0953-reverse-only-letters) |
+| [1524-string-matching-in-an-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1970-sorting-the-sentence](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1524-string-matching-in-an-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
