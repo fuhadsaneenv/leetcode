@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2502-sort-the-people) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2502-sort-the-people) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Recursion
 |  |
 | ------- |
