@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0941-sort-array-by-parity](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0941-sort-array-by-parity) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1137-height-checker](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1137-height-checker) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0342-power-of-four) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Sorting
 |  |
