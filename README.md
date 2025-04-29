@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0742-to-lower-case) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0953-reverse-only-letters) |
+| [1205-defanging-an-ip-address](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1524-string-matching-in-an-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1894-merge-strings-alternately) |
