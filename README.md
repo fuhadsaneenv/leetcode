@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0412-fizz-buzz) |
 | [1086-divisor-game](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1086-divisor-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0371-sum-of-two-integers) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Sorting
