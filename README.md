@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0953-reverse-only-letters) |
 | [1205-defanging-an-ip-address](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1205-defanging-an-ip-address) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Dynamic Programming
 |  |
