@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2502-sort-the-people](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2502-sort-the-people) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2502-sort-the-people](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2580-circular-sentence) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
