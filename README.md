@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0941-sort-array-by-parity](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0948-sort-an-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1137-height-checker](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1137-height-checker) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0948-sort-an-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -242,10 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0948-sort-an-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0948-sort-an-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0948-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0948-sort-an-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1137-height-checker) |
 ## Trie
 |  |
@@ -262,4 +267,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1791-richest-customer-wealth) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0948-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
