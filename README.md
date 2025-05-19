@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2502-sort-the-people) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3321-type-of-triangle](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/3321-type-of-triangle) |
 | [3429-special-array-i](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/3429-special-array-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Binary Search
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2556-convert-the-temperature) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3321-type-of-triangle](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1970-sorting-the-sentence](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2502-sort-the-people) |
+| [3321-type-of-triangle](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/3321-type-of-triangle) |
 ## String Matching
 |  |
 | ------- |
