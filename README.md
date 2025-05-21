@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1137-height-checker](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1137-height-checker) |
+| [1293-three-consecutive-odds](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
