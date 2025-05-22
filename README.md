@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0371-sum-of-two-integers) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1086-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## String
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/1086-divisor-game) |
 ## Stack
 |  |
