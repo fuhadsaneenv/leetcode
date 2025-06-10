@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/3194-find-words-containing-character) |
 | [3636-check-balanced-string](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/3636-check-balanced-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/Fuhad-saneen-coder/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
